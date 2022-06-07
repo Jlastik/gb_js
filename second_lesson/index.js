@@ -50,6 +50,12 @@
 
 //Четвертое
 
+/**
+ *
+ * @param {number} a Первый аргумент
+ * @param {number} b Второй аргумент
+ * @returns {number} Возвращаемое значение
+ */
 const sum = (a, b) => a + b;
 const diff = (a, b) => a - b;
 const mult = (a, b) => a * b;
